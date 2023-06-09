@@ -1,6 +1,6 @@
 package co.ke.stanslaus.learningsecurity.config;
 
-import co.ke.stanslaus.learningsecurity.user.UserRepository;
+import co.ke.stanslaus.learningsecurity.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
